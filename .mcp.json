@@ -1,0 +1,1 @@
+{ "mcpServers": { "computer-use": { "command": "npx", "args": ["tsx", "src/index.ts"] } } }
